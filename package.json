@@ -1,0 +1,12 @@
+{ "name" : "multipart"
+, "version" : "0.0.0"
+, "description" : "A JavaScript library for parsing and writing multipart messages"
+, "contributors" :  [ 
+  , "Denis Rylikov <denis.rylikov@protonmail.com>"
+  ]
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/drylikov/multipart-js.git"
+  }
+, "main" : "lib/multipart"
+}
