@@ -5,6 +5,7 @@ A JavaScript library for parsing and writing multipart messages.
 
 ## Current State
 
+
 Pre-pre-alpha.  Almost nothing is here, and what is here is likely completely broken.
 
 If you are asking about this, you probably ought to check out Felix's
@@ -12,9 +13,12 @@ If you are asking about this, you probably ought to check out Felix's
 
 ## Usage
 
+
 If you're familiar with [sax-js](https://github.com/drylikov/Sax-JS), then most of this should
 be pretty straightforward.  Attach event handlers, call functions, close it when you're
 done.  Please keep fingers and dangling clothing away from the state machine.
+
+
 
     var multipart = require("multipart");
     
